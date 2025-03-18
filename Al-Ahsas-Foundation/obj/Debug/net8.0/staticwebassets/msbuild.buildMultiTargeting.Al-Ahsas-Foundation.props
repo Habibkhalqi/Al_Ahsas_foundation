@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Al-Ahsas-Foundation.props" />
+</Project>
